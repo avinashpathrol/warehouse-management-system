@@ -1,0 +1,57 @@
+[
+    {
+      "orderId": 1,
+      "orderTotal": 150,
+      "orderDate": "2023-09-15",
+      "shippingAddress": "100 Dundas Street East",
+      "customerName": "John Smith",
+      "customerEmail": "john@example.com",
+      "lineItems": [
+        {
+          "lineItemId": 1,
+          "productId": "valentines_box",
+          "productName": "Valentines Box",
+          "price": 50
+        },
+        {
+          "lineItemId": 2,
+          "productId": "birthday_box",
+          "productName": "Birthday Box",
+          "price": 100
+        }
+      ]
+    },
+    {
+      "orderId": 2,
+      "orderTotal": 100,
+      "orderDate": "2023-09-15",
+      "shippingAddress": "100 Queen Street East",
+      "customerName": "Rob Smith",
+      "customerEmail": "rob@example.com",
+      "lineItems": [
+        {
+          "lineItemId": 3,
+          "productId": "valentines_box",
+          "productName": "Valentines Box",
+          "price": 50
+        }
+      ]
+    },
+    {
+      "orderId": 3,
+      "orderTotal": 100,
+      "orderDate": "2023-09-15",
+      "shippingAddress": "100 King Street East",
+      "customerName": "Dan Smith",
+      "customerEmail": "dan@example.com",
+      "lineItems": [
+        {
+          "lineItemId": 4,
+          "productId": "birthday_box",
+          "productName": "Birthday Box",
+          "price": 100
+        }
+      ]
+    }
+  ]
+  
